@@ -1,5 +1,5 @@
 
-# Rust CI Starter
+# Rust CLI Starter
 
 A Rust template project that gets you:
 
